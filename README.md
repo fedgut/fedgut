@@ -14,10 +14,10 @@
 const eduardoGutierrez = {
   lookingFor: "Full-stack web developer" || "Back-end developer",
   iLove: [Cooking/Baking, Sci-Fi, Learning, Science],
-  currentChallenges: "Diving into GraphQL and AWS",
-  funFacts: ['I have 1 year of remote dev experience', 'Rock Climbing/Bouldering adventurer',
-   'Mayored in Engineering with Minor in... Molecular Biology!',
-    'I know a lot about diamonds',
+  currentChallenges: "Diving into GraphQL and AWS",  
+  funFacts: ['I have 1 year of remote dev experience', 'Rock Climbing/Bouldering adventurer',  
+   'Mayored in Engineering with Minor in... Molecular Biology!',  
+    'I know a lot about diamonds',  
     'I love teaching! I taught enviromental impact @ local college']
 }
 ```
