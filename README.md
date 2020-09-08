@@ -15,9 +15,12 @@
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=fedgut&hide=html&layout=compact'>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=fedgut&hide=issues,contribs'>
-  _NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github_
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=fedgut&hide=issues,contribs'>  
+
+  *NOTE: Top languages do not indicate my skill level, it's a GitHub metric of which languages I have the most code on Github*
+
 </div>
+
 ### A little about me...  
 
 ```javascript
