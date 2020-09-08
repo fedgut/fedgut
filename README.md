@@ -21,7 +21,7 @@ const eduardoGutierrez = {
   iLove: [Cooking/Baking, Sci-Fi, Learning, Science],
   funFacts: ['I have 1 year of remote dev experience',  
     'Rock Climbing/Bouldering adventurer',  
-    'I\'ve got a Minor in... Molecular Biology!',  
+    'I have a Minor in... Molecular Biology!',  
     'I know a lot about diamonds',  
     'I love teaching! I taught enviromental impact @ local college']
 }
