@@ -5,7 +5,7 @@
 <p> Available for hire, glad to rellocate or work remotely</p>
 <p> Techs: Ruby, Rails, JS, React, Redux, SQL </p>
 <p>You can check out my portfolio <a href="">here</a></p>
-<p>And my resumee <a href="">here</a></p>
+<p>And my resume <a href="">here</a></p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/eduardgutierrezpulido/)
