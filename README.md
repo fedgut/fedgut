@@ -5,8 +5,8 @@
 <p> Available for hire, glad to rellocate or work remotely</p>
 <p> Techs: Ruby, Rails, JS, React, Redux, SQL </p>
 
-<p align=center>[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/eduardgutierrezpulido/)
-[![Twitter Badge](https://img.shields.io/badge/-@eduardo_gtzp_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo_gtzp)](https://twitter.com/eduardo_gtzp)</p>
+<span align=center>[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/eduardgutierrezpulido/)
+[![Twitter Badge](https://img.shields.io/badge/-@eduardo_gtzp_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo_gtzp)](https://twitter.com/eduardo_gtzp)</span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedgut&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
