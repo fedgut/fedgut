@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/eduardgutierrezpulido/)
 [![Twitter Badge](https://img.shields.io/badge/-@eduardo_gtzp_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo_gtzp)](https://twitter.com/eduardo_gtzp)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedgut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedgut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A little about me...  
 
