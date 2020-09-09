@@ -8,7 +8,7 @@
 <p><a href="">And my resume </a></p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/eduardgutierrezpulido/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardgutierrezpulido)](https://www.linkedin.com/in/Eduardo-Gutierrezp)
 [![Twitter Badge](https://img.shields.io/badge/-@eduardo_gtzp_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eduardo_gtzp)](https://twitter.com/eduardo_gtzp)  
 
 
