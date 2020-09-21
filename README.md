@@ -4,7 +4,7 @@
 <p><em>Full-stack dev and Biotech Engineer ready to tackle new and exciting challenges! </em></p>
 <p> Available for hire, glad to rellocate or work remotely</p>
 <p> Techs: Ruby, Rails, JS, React, Redux, SQL </p>
-<p>You can check out <a href="https://www.eduardo-gutierrez.dev/">my portfolio</a></p>
+<p>You can check out <a href="https://www.eduardo-gutierrez.dev/" target="_blank" rel="noreferrer">my portfolio</a></p>
 <p>And<a href="https://eduardo-portfolio.s3.us-east-2.amazonaws.com/Eduardo_Gutierrez_Resume.pdf"> my resume </a></p>
 
 
