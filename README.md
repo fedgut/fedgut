@@ -27,7 +27,6 @@ const eduardoGutierrez = {
   lookingFor: "Full-stack web developer" || "Back-end developer",
   currentChallenges: "Diving into GraphQL, Python and AWS",  
   iLove: [Cooking/Baking, Sci-Fi, Learning, Science],
-  funFacts: ['I have 1 year of remote dev experience',  
     'Rock Climbing/Bouldering adventurer',  
     'I have a Minor in... Molecular Biology!',  
     'I know a lot about diamonds',  
