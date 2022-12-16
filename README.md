@@ -51,7 +51,6 @@ const eduardoGutierrez = {
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://webpack.js.org/85ba630cf0c5f29ae3e3.svg">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
